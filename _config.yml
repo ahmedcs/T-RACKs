@@ -1,0 +1,5 @@
+theme: jekyll-theme-slate
+title: Hysteresis Switch Congestion Control For Data Centers
+description: This project aims at developing an switch control law based on hystersis to strech out the short TCP loss cycles in data centers
+author: Ahmed MOHAMED ABDELMONIEM SAYED
+author_email: ahmedcs982@gmail.com
