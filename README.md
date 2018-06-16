@@ -39,10 +39,11 @@ The Copyright of this repository and its subfolders are held exclusively by "Ahm
 
 Any USE or Modification to the (source code, scripts, .., etc) included in this repository has to cite the following PAPERS:  
 
-1- Ahmed M Abdelmoniem, Brahim Bensaou, "End-host Timely TCP Loss Recovery via ACK Retransmission in Data Centres", Technical Report, HKUST-CS17-02, Hong Kong, 2017.  
+1- Ahmed M. Abdelmoniem and Brahim Bensaou, “Curbing Timeouts for TCP- Incast in Data Centers via A Cross-Layer Faster Recovery Mechanism, in Proceedings of IEEE INFOCOM 2018, Honolulu, HI, USA, Apr-2018. 
+2- Ahmed M Abdelmoniem, Brahim Bensaou, "End-host Timely TCP Loss Recovery via ACK Retransmission in Data Centres", Technical Report, HKUST-CS17-02, Hong Kong, 2017.  
 
 **Notice, the COPYRIGHT and/or Author Information notice at the header of the (source, header and script) files can not be removed or modified.**
 
 
 # Published Paper
-To understand the framework and proposed solution, please read the technical report \[[T-RACKs Tech-Repo PDF](download/TRACKs-Report.pdf)\]
+To understand the framework and proposed solution, please read the paper \[[T-RACKs INFOCOM paper PDF](download/TRACKs-Paper.pdf)\] and technical report \[[T-RACKs Tech-Repo PDF](download/TRACKs-Report.pdf)\]
