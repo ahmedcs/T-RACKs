@@ -39,9 +39,22 @@ The Copyright of this repository and its subfolders are held exclusively by "Ahm
 
 Any USE or Modification to the (source code, scripts, .., etc) included in this repository has to cite the following PAPERS:  
 
-1- Ahmed M. Abdelmoniem and Brahim Bensaou, “Curbing Timeouts for TCP- Incast in Data Centers via A Cross-Layer Faster Recovery Mechanism, in Proceedings of IEEE INFOCOM 2018, Honolulu, HI, USA, Apr-2018. 
- 
-2- Ahmed M Abdelmoniem, Brahim Bensaou, "End-host Timely TCP Loss Recovery via ACK Retransmission in Data Centres", Technical Report, HKUST-CS17-02, Hong Kong, 2017.  
+```bibtex
+@inproceedings{Ahmed-INFOCOM-2018,
+	Author = {Ahmed {M. Abdelmoniem} and Brahim Bensaou},
+	Booktitle = {IEEE INFOCOM},
+	Title = {{Curbing Timeouts for TCP-Incast in Data Centers via A Cross-Layer Faster Recovery Mechanism}},
+	Year = 2017}
+
+@ARTICLE{TRACKS_TON_2021,
+  author={Abdelmoniem, Ahmed M. and Bensaou, Brahim},
+  journal={IEEE/ACM Transactions on Networking}, 
+  title={{T-RACKs: A Faster Recovery Mechanism for TCP in Data Center Networks}}, 
+  year={2021},
+  volume={29},
+  number={3},
+}
+```
 
 **Notice, the COPYRIGHT and/or Author Information notice at the header of the (source, header and script) files can not be removed or modified.**
 
